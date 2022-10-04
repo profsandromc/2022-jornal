@@ -1,11 +1,10 @@
 <?php
 // include de header
 include_once './includes/_header.php';
-
 // parte do conteudo da pagina
 ?>
 <main>
-
+    <h1>Noticia</h1>
 </main>
 <?php
 // include do aside
